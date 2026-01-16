@@ -19,6 +19,22 @@ I am currently seeking **junior / trainee / front-end developer** opportunities,
 
 ---
 
+## 🚀 Professional Experience Projects
+
+### 🔹 Developer Portfolio – Criollos.Tech (Private Code)
+Production-ready developer portfolio website built as part of my role as a Front-End Developer at **Criollos.Tech**, focused on clean design, performance, and user experience.
+
+- Role: Front-End Developer  
+- Company: Criollos.Tech  
+- Technologies: React, Next.js, Tailwind CSS  
+- Live Site: https://frank-perez-fleita.vercel.app/
+- Key Contributions:
+  - Designed and implemented a modern, fully responsive user interface
+  - Built reusable components and a clean layout structure
+  - Applied component-based architecture and front-end best practices
+  - Optimized performance, accessibility, and deployment using Vercel
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 Calculator App
