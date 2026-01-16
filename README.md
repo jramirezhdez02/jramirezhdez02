@@ -1,4 +1,4 @@
-# 👋 Hi, There!
+ 👋 Hi, There!
 
 Jorge Ramírez Hernández
 
@@ -21,31 +21,45 @@ I am currently seeking **junior / trainee / front-end developer** opportunities,
 
 ## 🚀 Featured Projects
 
-### 🔹 Admin Dashboard
-Responsive web dashboard with a modern layout and focus on reusable components.
-
-- Technologies: HTML, CSS, JavaScript  
-- Repository: https://github.com/jramirezhdez02/admin-dashboard  
-- Live Demo: *(to be added)*
-
----
-
 ### 🔹 Calculator App
 Interactive web application that simulates a functional calculator with proper event and state handling.
 
 - Technologies: JavaScript, HTML, CSS  
 - Repository: https://github.com/jramirezhdez02/calculator
-
+- Live Demo: https://jramirezhdez02.github.io/calculator/
 ---
 
-### 🔹 Landing Page
-Responsive landing page focused on visual structure, layout, and adaptability across devices.
+### 🔹 Tic-Tac-Toe
+Classic Tic-Tac-Toe game implemented with clean JavaScript logic and interactive UI.
 
-- Technologies: HTML, CSS  
-- Repository: https://github.com/jramirezhdez02/landing-page
-
+- Technologies: JavaScript, HTML, CSS  
+- Repository: https://github.com/jramirezhdez02/tic-tac-toe
+- Live Demo: https://jramirezhdez02.github.io/tic-tac-toe/
 ---
 
+### 🔹 Library App
+Small library management application focused on DOM manipulation, state handling, and user interactions.
+
+- Technologies: JavaScript, HTML, CSS  
+- Repository: https://github.com/jramirezhdez02/library
+- Live Demo: https://jramirezhdez02.github.io/library/
+---
+
+### 🔹 Etch-A-Sketch
+Interactive drawing application inspired by the classic Etch-A-Sketch toy, focused on grid manipulation and dynamic DOM updates.
+
+- Technologies: JavaScript, HTML, CSS  
+- Repository: https://github.com/jramirezhdez02/etch-a-sketch
+- Live Demo: https://jramirezhdez02.github.io/etch-a-sketch/
+---
+
+### 🔹 Admin Dashboard
+Responsive web dashboard with a modern layout and focus on reusable components.
+
+- Technologies: HTML, CSS, JavaScript  
+- Repository: https://github.com/jramirezhdez02/admin-dashboard  
+- Live Demo: https://jramirezhdez02.github.io/admin-dashboard/
+  
 ## ✅ What you can expect from my work
 
 - Clean, readable, and well-structured code  
