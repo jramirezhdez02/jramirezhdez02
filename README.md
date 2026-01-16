@@ -59,6 +59,7 @@ Responsive web dashboard with a modern layout and focus on reusable components.
 - Technologies: HTML, CSS, JavaScript  
 - Repository: https://github.com/jramirezhdez02/admin-dashboard  
 - Live Demo: https://jramirezhdez02.github.io/admin-dashboard/
+---
   
 ## ✅ What you can expect from my work
 
