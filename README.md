@@ -68,7 +68,7 @@ Technical highlights:
 - Automated preprocessing workflow for dataset preparation and model training
 - Evaluation and comparison of multiple model configurations for binary and multi-class classification
 
-Repository: *(to be published)*
+- Repository: *(to be published)*
 
 ---
 
