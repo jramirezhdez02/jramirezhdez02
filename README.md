@@ -1,21 +1,74 @@
- 👋 Hi, There!
+## Jorge Ramírez Hernández
 
-Jorge Ramírez Hernández
+Telecommunications and Electronics Engineer | Machine Learning | Signal Processing | Software Development
 
-**Front-End Developer | React | JavaScript | TypeScript**
+Telecommunications and Electronics Engineer with experience in Digital Signal Processing, Machine Learning, and software development. My work combines signal analysis, deep learning models, and software engineering to build data-driven solutions.
 
-Front-end web developer with an engineering background and experience building modern, responsive, and user-focused interfaces. I primarily work with **React and Next.js**, applying best practices, component-based architecture, and version control in collaborative environments.
+During my academic research I developed an automated system for **leak detection in water distribution systems** using **Vision Transformer architectures implemented in PyTorch**, applying time-frequency signal representations.
 
-I am currently seeking **junior / trainee / front-end developer** opportunities, both on-site and remote.
+I also have professional experience in **front-end development**, building modern, responsive web applications using React and TypeScript in collaborative environments.
+
+Currently open to opportunities in **Machine Learning, Data Science, or Software Engineering**.
 
 ---
 
-## 🧠 Main Tech Stack
+# 🧠 Technical Areas
 
-- **Front-End:** React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS  
-- **Back-End (basic):** Node.js, Express, REST APIs  
-- **Tools:** Git, GitHub, Bash, Linux, Figma  
-- **Other languages:** Python, C/C++
+### Machine Learning / Data Science
+- PyTorch
+- Scikit-learn
+- Deep Learning
+- Neural Networks
+- Transformers
+- Model Evaluation
+- Hyperparameter Optimization
+- Time Series Analysis
+
+### Signal Processing
+- Digital Signal Processing
+- Time-Frequency Analysis
+- Continuous Wavelet Transform (CWT)
+- Short-Time Fourier Transform (STFT)
+
+### Programming
+- Python
+- C / C++
+- JavaScript
+- TypeScript
+
+### Tools
+- Git
+- Linux
+- Bash
+
+---
+
+# 🚀 Machine Learning Project
+
+## IImplementation and Evaluation of Vision Transformers for Leak Detection and Classification in Water Pipelines Using Time–Frequency Signal Analysis.
+
+Research project focused on automated fault detection in hydraulic systems using signal processing and deep learning techniques.
+
+Core technologies: **PyTorch, Python, NumPy, Scikit-learn, Signal Processing**
+
+Key components of the project:
+
+- Signal processing pipeline for experimental sensor data
+- Time-frequency transformations (CWT, STFT)
+- Vision Transformer models implemented in PyTorch
+- Training from scratch and fine-tuning approaches
+- Binary and multi-class classification tasks
+- Model evaluation using standard classification metrics
+
+Technical highlights:
+
+- End-to-end machine learning pipeline for experimental signal data
+- Transformation of 1D sensor signals into time–frequency representations using CWT and STFT
+- Implementation and training of Vision Transformer architectures in PyTorch (from scratch and fine-tuning)
+- Automated preprocessing workflow for dataset preparation and model training
+- Evaluation and comparison of multiple model configurations for binary and multi-class classification
+
+Repository: *(to be published)*
 
 ---
 
@@ -33,6 +86,7 @@ Production-ready developer portfolio website built as part of my role as a Front
   - Built reusable components and a clean layout structure
   - Applied component-based architecture and front-end best practices
   - Optimized performance, accessibility, and deployment using Vercel
+
 ---
 
 ## 🚀 Featured Projects
@@ -43,6 +97,7 @@ Interactive web application that simulates a functional calculator with proper e
 - Technologies: JavaScript, HTML, CSS  
 - Repository: https://github.com/jramirezhdez02/calculator
 - Live Demo: https://jramirezhdez02.github.io/calculator/
+
 ---
 
 ### 🔹 Tic-Tac-Toe
@@ -51,6 +106,7 @@ Classic Tic-Tac-Toe game implemented with clean JavaScript logic and interactive
 - Technologies: JavaScript, HTML, CSS  
 - Repository: https://github.com/jramirezhdez02/tic-tac-toe
 - Live Demo: https://jramirezhdez02.github.io/tic-tac-toe/
+
 ---
 
 ### 🔹 Library App
@@ -59,6 +115,7 @@ Small library management application focused on DOM manipulation, state handling
 - Technologies: JavaScript, HTML, CSS  
 - Repository: https://github.com/jramirezhdez02/library
 - Live Demo: https://jramirezhdez02.github.io/library/
+
 ---
 
 ### 🔹 Etch-A-Sketch
@@ -67,6 +124,7 @@ Interactive drawing application inspired by the classic Etch-A-Sketch toy, focus
 - Technologies: JavaScript, HTML, CSS  
 - Repository: https://github.com/jramirezhdez02/etch-a-sketch
 - Live Demo: https://jramirezhdez02.github.io/etch-a-sketch/
+
 ---
 
 ### 🔹 Admin Dashboard
@@ -75,8 +133,9 @@ Responsive web dashboard with a modern layout and focus on reusable components.
 - Technologies: HTML, CSS, JavaScript  
 - Repository: https://github.com/jramirezhdez02/admin-dashboard  
 - Live Demo: https://jramirezhdez02.github.io/admin-dashboard/
+
 ---
-  
+
 ## ✅ What you can expect from my work
 
 - Clean, readable, and well-structured code  
@@ -91,6 +150,4 @@ Responsive web dashboard with a modern layout and focus on reusable components.
 
 - 📧 Email: jramirezhdez02@gmail.com  
 - 💼 GitHub: https://github.com/jramirezhdez02  
-- 📍 Campinas, SP – Brazil  
-
-Open to front-end development opportunities where I can grow professionally and contribute value to the team.
+- 📍 Campinas, SP – Brazil
