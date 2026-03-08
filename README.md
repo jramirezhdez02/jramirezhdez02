@@ -45,7 +45,7 @@ Currently open to opportunities in **Machine Learning, Data Science, or Software
 
 # 🚀 Machine Learning Project
 
-## IImplementation and Evaluation of Vision Transformers for Leak Detection and Classification in Water Pipelines Using Time–Frequency Signal Analysis.
+## Implementation and Evaluation of Vision Transformers for Leak Detection and Classification in Water Pipelines Using Time–Frequency Signal Analysis.
 
 Research project focused on automated fault detection in hydraulic systems using signal processing and deep learning techniques.
 
