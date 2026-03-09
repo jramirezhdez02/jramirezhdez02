@@ -68,7 +68,7 @@ Technical highlights:
 - Automated preprocessing workflow for dataset preparation and model training
 - Evaluation and comparison of multiple model configurations for binary and multi-class classification
 
-Repository: https://github.com/jramirezhdez02/Vision-Transformers-for-Leak-Detection-in-Water-Pipelines-Using-Time-Frequency-Analysis)
+Repository: https://github.com/jramirezhdez02/Vision-Transformers-for-Leak-Detection-in-Water-Pipelines-Using-Time-Frequency-Analysis
 
 ---
 
