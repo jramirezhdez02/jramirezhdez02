@@ -2,7 +2,7 @@
 
 Telecommunications and Electronics Engineer | Machine Learning | Signal Processing | Software Development
 
-Telecommunications and Electronics Engineer with experience in Digital Signal Processing, Machine Learning, and software development. My work combines signal analysis, deep learning models, and software engineering to build data-driven solutions.
+Telecommunications and Electronics Engineer with experience in Digital Signal Processing, Machine Learning, and Software Development. My work combines signal analysis, deep learning models, and software engineering to build data-driven solutions.
 
 During my academic research I developed an automated system for **leak detection in water distribution systems** using **Vision Transformer architectures implemented in PyTorch**, applying time-frequency signal representations.
 
